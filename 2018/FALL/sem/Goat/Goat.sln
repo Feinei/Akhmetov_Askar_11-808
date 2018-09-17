@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goat", "Goat\Goat.csproj", "{34F80719-4EF2-480C-8A53-377F1EA673A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F80719-4EF2-480C-8A53-377F1EA673A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F80719-4EF2-480C-8A53-377F1EA673A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F80719-4EF2-480C-8A53-377F1EA673A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F80719-4EF2-480C-8A53-377F1EA673A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87A02CAB-CCE1-484D-BCE6-2A7B3FC4764D}
+	EndGlobalSection
+EndGlobal
