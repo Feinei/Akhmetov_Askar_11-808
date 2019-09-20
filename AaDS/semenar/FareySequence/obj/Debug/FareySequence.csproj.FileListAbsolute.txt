@@ -1,0 +1,7 @@
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\FareySequence\bin\Debug\FareySequence.exe.config
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\FareySequence\bin\Debug\FareySequence.exe
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\FareySequence\bin\Debug\FareySequence.pdb
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\FareySequence\obj\Debug\FareySequence.csprojAssemblyReference.cache
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\FareySequence\obj\Debug\FareySequence.csproj.CoreCompileInputs.cache
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\FareySequence\obj\Debug\FareySequence.exe
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\FareySequence\obj\Debug\FareySequence.pdb

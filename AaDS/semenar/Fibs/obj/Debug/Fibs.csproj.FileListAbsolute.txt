@@ -1,0 +1,7 @@
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\Fibs\bin\Debug\Fibs.exe.config
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\Fibs\bin\Debug\Fibs.exe
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\Fibs\bin\Debug\Fibs.pdb
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\Fibs\obj\Debug\Fibs.csprojAssemblyReference.cache
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\Fibs\obj\Debug\Fibs.csproj.CoreCompileInputs.cache
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\Fibs\obj\Debug\Fibs.exe
+C:\Users\Аскар\Desktop\Akhmetov_Askar_11-808\AaDS\semenar\Fibs\obj\Debug\Fibs.pdb
