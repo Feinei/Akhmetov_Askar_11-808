@@ -1,0 +1,13 @@
+C:\Users\Аскар\source\repos\PizzaCallories\PizzaCallories\bin\Debug\PizzaCallories.exe.config
+C:\Users\Аскар\source\repos\PizzaCallories\PizzaCallories\bin\Debug\PizzaCallories.exe
+C:\Users\Аскар\source\repos\PizzaCallories\PizzaCallories\bin\Debug\PizzaCallories.pdb
+C:\Users\Аскар\source\repos\PizzaCallories\PizzaCallories\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Аскар\source\repos\PizzaCallories\PizzaCallories\bin\Debug\nunit.framework.dll
+C:\Users\Аскар\source\repos\PizzaCallories\PizzaCallories\bin\Debug\NuGet.Frameworks.xml
+C:\Users\Аскар\source\repos\PizzaCallories\PizzaCallories\bin\Debug\nunit.framework.pdb
+C:\Users\Аскар\source\repos\PizzaCallories\PizzaCallories\bin\Debug\nunit.framework.xml
+C:\Users\Аскар\source\repos\PizzaCallories\PizzaCallories\obj\Debug\PizzaCallories.csprojAssemblyReference.cache
+C:\Users\Аскар\source\repos\PizzaCallories\PizzaCallories\obj\Debug\PizzaCallories.csproj.CoreCompileInputs.cache
+C:\Users\Аскар\source\repos\PizzaCallories\PizzaCallories\obj\Debug\PizzaCallories.csproj.CopyComplete
+C:\Users\Аскар\source\repos\PizzaCallories\PizzaCallories\obj\Debug\PizzaCallories.exe
+C:\Users\Аскар\source\repos\PizzaCallories\PizzaCallories\obj\Debug\PizzaCallories.pdb

@@ -1,0 +1,7 @@
+C:\Users\Аскар\source\repos\NetApp\NetApp\bin\Debug\NetApp.exe.config
+C:\Users\Аскар\source\repos\NetApp\NetApp\bin\Debug\NetApp.exe
+C:\Users\Аскар\source\repos\NetApp\NetApp\bin\Debug\NetApp.pdb
+C:\Users\Аскар\source\repos\NetApp\NetApp\obj\Debug\NetApp.csprojAssemblyReference.cache
+C:\Users\Аскар\source\repos\NetApp\NetApp\obj\Debug\NetApp.csproj.CoreCompileInputs.cache
+C:\Users\Аскар\source\repos\NetApp\NetApp\obj\Debug\NetApp.exe
+C:\Users\Аскар\source\repos\NetApp\NetApp\obj\Debug\NetApp.pdb
