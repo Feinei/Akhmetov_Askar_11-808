@@ -1,0 +1,14 @@
+C:\Users\Аскар\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\Аскар\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Аскар\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Аскар\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+C:\Users\Аскар\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Аскар\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Аскар\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\Аскар\source\repos\2 курс\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\Аскар\source\repos\2 курс\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Аскар\source\repos\2 курс\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Аскар\source\repos\2 курс\SocketServer\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+C:\Users\Аскар\source\repos\2 курс\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Аскар\source\repos\2 курс\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Аскар\source\repos\2 курс\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
